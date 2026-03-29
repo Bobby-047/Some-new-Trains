@@ -1,9 +1,10 @@
 {
-  "id": "New-Trains",
-  "name": "New Trains",
+  "id": "simple-trains",
+  "name": "Simple Trains",
   "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "subway-builder": ">=1.0.0"
-  }
+  },
+  "author": "Bobby-047"
 }
