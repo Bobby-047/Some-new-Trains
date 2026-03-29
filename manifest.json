@@ -2,8 +2,8 @@
   "id": "New-Trains",
   "name": "New Trains",
   "version": "1.0.1",
-  "main": "index.js"
+  "main": "index.js",
   "dependencies": {
-    "subway-builder": ">=1.0.0",
+    "subway-builder": ">=1.0.0"
   }
 }
