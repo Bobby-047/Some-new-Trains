@@ -1,6 +1,9 @@
 {
-  "id": "mia-mod-test",
-  "name": "Super Velocità",
-  "version": "1.0.0",
+  "id": "New-Trains",
+  "name": "New Trains",
+  "version": "1.0.1",
   "main": "index.js"
+  "dependencies": {
+    "subway-builder": ">=1.0.0",
+  }
 }
