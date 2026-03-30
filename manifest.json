@@ -6,5 +6,7 @@
   "dependencies": {
     "subway-builder": ">=1.0.0"
   },
-  "author": "Bobby-047"
+  "author": {
+    "name": "Bobby-047"
+  },
 }
